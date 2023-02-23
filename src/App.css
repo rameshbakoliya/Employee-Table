@@ -1,0 +1,15 @@
+*{padding: 0; margin: 0; }
+.table_data{
+  padding: 20px;
+  margin: 10px;
+  background-color: aqua;
+  font-size: 20px;
+  border: 0;
+  box-sizing: border-box;
+  border-style: dotted;
+  border-color: black;
+  text-align: center;
+}
+th{
+  padding: 10px;
+}

@@ -1,0 +1,21 @@
+const EmployeeData = [
+{id : 1, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 2, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 3, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 4, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 5, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 7, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 8, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 9, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 10, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 11, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 12, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 13, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 14, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 15, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 16, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 17, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 18, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+{id : 19, name:"Harsh", gender: "Male",PhoneNumber : 1234567890, City: "jaipur", Salary: 10000},
+] 
+export default EmployeeData;
